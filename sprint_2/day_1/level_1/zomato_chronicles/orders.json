@@ -1,0 +1,44 @@
+{
+    "1": {
+        "customer_name": "kunal",
+        "order_items": [
+            "1",
+            "2"
+        ],
+        "status": "received"
+    },
+    "2": {
+        "customer_name": "shreyash",
+        "order_items": [
+            "1",
+            "2"
+        ],
+        "status": "delivered"
+    },
+    "3": {
+        "customer_name": "amaan",
+        "order_items": [
+            "1",
+            "2"
+        ],
+        "status": "ready for pickup"
+    },
+    "4": {
+        "customer_name": "sumegh",
+        "order_items": [
+            "1",
+            "2",
+            "3"
+        ],
+        "status": "received"
+    },
+    "5": {
+        "customer_name": "vipin",
+        "order_items": [
+            "1",
+            "2",
+            "3"
+        ],
+        "status": "preparing"
+    }
+}
